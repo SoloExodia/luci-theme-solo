@@ -2,7 +2,7 @@
 
 # luci-theme-solo
 
-<img src="https://raw.githubusercontent.com/SoloExodia/luci-theme-solo/master/luasrc/img/logo.png">
+<img src="https://raw.githubusercontent.com/SoloExodia/luci-theme-solo/master/luasrc/img/logo-solowrt.png">
 
 Custom LuCI theme for SoloWRT firmware - Dark blue/black base with neon cyan accents
 
